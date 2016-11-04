@@ -1,3 +1,4 @@
+<?php    
     /**
      * Redirect standard input and output.
      *
