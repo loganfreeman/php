@@ -1,3 +1,4 @@
+<?php    
     /**
      * Monitor all child processes.
      *
