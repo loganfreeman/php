@@ -1,3 +1,4 @@
+<?php    
     /**
      * Function that crawls each provided URI
      * It applies all processors and listeners set on the Spider
