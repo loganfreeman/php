@@ -1,4 +1,4 @@
-
+<?php
     /**
      * Set unix user and group for current process.
      *
