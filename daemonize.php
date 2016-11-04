@@ -1,3 +1,4 @@
+<?php    
     /**
      * Run as deamon mode.
      *
