@@ -1,3 +1,4 @@
+<?php    
     /**
      * Set process name.
      *
