@@ -45,3 +45,16 @@ foreach ($files as $file) {
     }
 }
 ```
+Now lets start with the main code, the NodeVisitor\NamespaceConverter. One thing it needs to do is convert A\\B style names to A_B style ones.
+```php
+use PhpParser\Node;
+
+class NamespaceConverter extends \PhpParser\NodeVisitorAbstract
+{
+    public function leaveNode(Node $node) {
+        if ($node instanceof Node\Name) {
+            return new Node\Name($node->toString('_'));
+        }
+    }
+}
+```
