@@ -1,3 +1,4 @@
+<?php    
     /**
      * Fork one worker process.
      *
