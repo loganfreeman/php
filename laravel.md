@@ -15,3 +15,4 @@ Authentication
 ---
 - [Laravel user login authentication code example](http://tutsnare.com/laravel-user-login-authentication-code-example/)
 - [Laravel 5.3 Social and Email Multi-Authentication](https://tuts.codingo.me/laravel-social-and-email-authentication)
+- [laravel 5.3 Authentication](https://laravel.com/docs/5.3/authentication)
