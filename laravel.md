@@ -14,3 +14,4 @@ Packages
 Authentication
 ---
 - [Laravel user login authentication code example](http://tutsnare.com/laravel-user-login-authentication-code-example/)
+- [Laravel 5.3 Social and Email Multi-Authentication](https://tuts.codingo.me/laravel-social-and-email-authentication)
