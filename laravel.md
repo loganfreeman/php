@@ -29,3 +29,4 @@ Illuminate database
 ---
 - [database](https://github.com/illuminate/database)
 - [Using Eloquent with Slim](https://www.slimframework.com/docs/cookbook/database-eloquent.html)
+- [Using Eloquent without Laravel](https://jenssegers.com/index.php/53/using-eloquent-without-laravel)
