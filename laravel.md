@@ -22,4 +22,9 @@ MiddleWare
 - [laravel 5.3 middleware](https://laravel.com/docs/5.3/middleware)
 
 Illuminate
+---
 - [Torch - Using Laravel's Illuminate Components Independently](https://github.com/mattstauffer/Torch)
+
+Illuminate database
+---
+- [database](https://github.com/illuminate/database)
