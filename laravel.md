@@ -31,3 +31,4 @@ Illuminate database
 - [Using Eloquent with Slim](https://www.slimframework.com/docs/cookbook/database-eloquent.html)
 - [Using Eloquent without Laravel](https://jenssegers.com/index.php/53/using-eloquent-without-laravel)
 - [How to use Eloquent ORM migrations outside Laravel](https://siipo.la/blog/how-to-use-eloquent-orm-migrations-outside-laravel)
+- [Interacting With The Database](http://docs.whmcs.com/Interacting_With_The_Database)
