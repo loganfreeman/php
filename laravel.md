@@ -5,6 +5,7 @@ Laravel
 
 autoloader
 ---
+- [composer schema](https://getcomposer.org/doc/04-schema.md)
 - [Laravel 5 Autoloader](http://alanstorm.com/laravel_5_autoloader/)
 - [Registering Laravel’s Autoloaders](http://alanstorm.com/registering_laravel_autoloaders/)
 - [Laravel’s Framework Autoloader](http://alanstorm.com/laravel_framework_autoloader/)
