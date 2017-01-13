@@ -1,6 +1,7 @@
 Laravel 
 ---
 - [laravel github](https://github.com/laravel/laravel)
+- [awesome laravel](https://github.com/chiraggude/awesome-laravel)
 
 autoloader
 ---
