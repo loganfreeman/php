@@ -15,3 +15,9 @@ pcntl_signal(SIGINT, 'signalHandler');
 这样就存在一个比较严重的性能问题，大家都知道PHP的ticks=1表示每执行1行PHP代码就回调此函数。实际上大部分时间都没有信号产生，但ticks的函数一直会执行。如果一个服务器程序1秒中接收1000次请求，平均每个请求要执行1000行PHP代码。那么PHP的pcntl_signal，就带来了额外的 1000 * 1000，也就是100万次空的函数调用。这样会浪费大量的CPU资源。
 
 比较好的做法是去掉ticks，转而使用`pcntl_signal_dispatch`，在代码循环中自行处理信号。
+
+The `pcntl_signal_dispatch()` function calls the signal handlers installed by pcntl_signal() for each pending signal.
+
+
+
+
