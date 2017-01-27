@@ -18,6 +18,13 @@ pcntl_signal(SIGINT, 'signalHandler');
 
 The `pcntl_signal_dispatch()` function calls the signal handlers installed by pcntl_signal() for each pending signal.
 
+Ignore `Ctr+C`
+---
+```php
+declare (ticks = 1);
+pcntl_signal(SIGINT, SIG_IGN, true);
+```
+
 
 
 
