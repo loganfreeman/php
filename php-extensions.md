@@ -1,2 +1,3 @@
 - [intl](http://php.net/manual/en/book.intl.php)
 - [How to Install PHP intl extension on OS X](http://budiirawan.com/install-php-intl-extension-os-x/)
+- [Install PHP INTL on Mac using HomeBrew](https://daveismyname.blog/blog/install-php-intl-on-mac-using-homebrew)
