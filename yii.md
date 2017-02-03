@@ -8,6 +8,7 @@ guide
 - [How To Create Single Page Application in minutes! 
 with AngularJs 1.3 and Yii 2.0](https://github.com/hscstudio/angular1-yii2)
 - [Yii 2 Practical Project Template](https://github.com/kartik-v/yii2-app-practical)
+- [Yii 2 Minimal Application Template](https://github.com/samdark/yii2-minimal)
 
 console
 ---
