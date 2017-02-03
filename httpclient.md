@@ -13,3 +13,7 @@ try {
             throw new Exception($e->getMessage(), $e->getCode(), $e);
         }
 ```
+
+[Curl](http://php.net/manual/en/book.curl.php)
+---
+CurlTransport sends HTTP messages using [Client URL Library (cURL)](http://php.net/manual/en/book.curl.php)
