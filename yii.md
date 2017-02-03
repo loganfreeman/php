@@ -5,6 +5,8 @@ awesome
 guide
 ---
 - [get started](http://www.yiiframework.com/doc-2.0/guide-start-installation.html)
+- [How To Create Single Page Application in minutes! 
+with AngularJs 1.3 and Yii 2.0](https://github.com/hscstudio/angular1-yii2)
 
 console
 ---
