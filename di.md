@@ -14,3 +14,22 @@ $foo = $container->get('Foo');
 $bar = new Bar;
 $foo = new Foo($bar);
 ```
+PHP Callable Injection
+---
+
+In this case, the container will use a registered PHP callable to build new instances of a class. Each time when yii\di\Container::get() is called, the corresponding callable will be invoked. The callable is responsible to resolve the dependencies and inject them appropriately to the newly created objects.
+```php
+class FooBuilder
+{
+    public static function build()
+    {
+        $foo = new Foo(new Bar);
+        // ... other initializations ...
+        return $foo;
+    }
+}
+
+$container->set('Foo', ['app\helper\FooBuilder', 'build']);
+
+$foo = $container->get('Foo');
+```
