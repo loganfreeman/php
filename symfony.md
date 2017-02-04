@@ -7,6 +7,10 @@ awesome
 symfony
 ---
 
-[Installing & Setting up the Symfony Framework](http://symfony.com/doc/current/setup.html)
+- [Installing & Setting up the Symfony Framework](http://symfony.com/doc/current/setup.html)
 
-[routing](http://symfony.com/doc/current/routing.html)
+- [routing](http://symfony.com/doc/current/routing.html)
+
+bundle
+---
+- [bundles](http://symfony.com/doc/current/bundles.html)
