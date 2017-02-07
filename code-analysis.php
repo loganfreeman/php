@@ -1,0 +1,1 @@
+- [PHP Static Analysis Tool](https://github.com/phpstan/phpstan)
