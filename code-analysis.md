@@ -1,1 +1,2 @@
 - [PHP Static Analysis Tool](https://github.com/phpstan/phpstan)
+- [psalm](https://github.com/vimeo/psalm)
