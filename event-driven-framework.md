@@ -1,1 +1,2 @@
 - [Workerman](https://github.com/walkor/Workerman)
+- [PHP-Daemon](https://github.com/shaneharter/PHP-Daemon)
