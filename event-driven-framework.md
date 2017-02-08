@@ -3,6 +3,7 @@ Links
 - [Workerman](https://github.com/walkor/Workerman)
 - [PHP-Daemon](https://github.com/shaneharter/PHP-Daemon)
 - [Create Daemons in PHP](http://kvz.io/blog/2009/01/09/create-daemons-in-php/)
+- [react](https://github.com/reactphp/react)
 
 daemonize
 ---
