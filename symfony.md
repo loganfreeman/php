@@ -14,3 +14,7 @@ symfony
 bundle
 ---
 - [bundles](http://symfony.com/doc/current/bundles.html)
+
+Configuration
+---
+- [fluent-symfony](https://github.com/mnapoli/fluent-symfony)
