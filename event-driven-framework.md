@@ -5,6 +5,7 @@ Links
 - [Create Daemons in PHP](http://kvz.io/blog/2009/01/09/create-daemons-in-php/)
 - [react](https://github.com/reactphp/react)
 - [event-loop](https://github.com/reactphp/event-loop)
+- [Event extension](http://php.net/manual/en/event.constructing.signal.events.php)
 
 daemonize
 ---
