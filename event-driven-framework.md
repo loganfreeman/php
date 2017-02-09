@@ -6,6 +6,7 @@ Links
 - [react](https://github.com/reactphp/react)
 - [event-loop](https://github.com/reactphp/event-loop)
 - [Event extension](http://php.net/manual/en/event.constructing.signal.events.php)
+- [php-libev](https://github.com/m4rw3r/php-libev)
 
 daemonize
 ---
