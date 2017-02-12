@@ -1,0 +1,1 @@
+- [SplObjectStorage](http://php.net/manual/en/class.splobjectstorage.php)
