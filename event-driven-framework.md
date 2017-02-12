@@ -12,6 +12,11 @@ event emitter
 ---
 - [evenement](https://github.com/igorw/evenement)
 
+Promise
+---
+- [guzzle promises](https://github.com/guzzle/promises)
+- [reactphp promise](https://github.com/reactphp/promise)
+
 daemonize
 ---
 A session leader is a process where session id == process id. This sounds contrived, but the session id is inherited by child processes. Some operations within UNIX/Linux operate on process sessions, for example, negating the process id when sending to the kill system call or command. The most common use for this is when logging out of a shell. The OS will send kill -HUP -$$, which will send a SIGHUP (hangup) signal to all the processes with the same session id as the shell. When you disown a process, the session id of the process is changed from the shell, so it will not respond to the hangup signal. This is one part of the process to become a daemon process.
