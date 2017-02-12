@@ -1,4 +1,4 @@
-- [proc-open](http://php.net/manual/en/function.proc-open.php)
+[proc-open](http://php.net/manual/en/function.proc-open.php)
 ---
 ```php
 <?php
