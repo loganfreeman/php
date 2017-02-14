@@ -18,3 +18,4 @@ bundle
 Configuration
 ---
 - [fluent-symfony](https://github.com/mnapoli/fluent-symfony)
+- [How to Load Service Configuration inside a Bundle](http://symfony.com/doc/current/bundles/extension.html)
