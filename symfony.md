@@ -20,3 +20,8 @@ Configuration
 - [fluent-symfony](https://github.com/mnapoli/fluent-symfony)
 - [How to Load Service Configuration inside a Bundle](http://symfony.com/doc/current/bundles/extension.html)
 - [How to Create Friendly Configuration for a Bundle](http://symfony.com/doc/current/bundles/configuration.html)
+
+
+API
+- [api2symfony](https://github.com/creads/api2symfony)
+- [api2symfony-bundle](https://github.com/creads/api2symfony-bundle)
