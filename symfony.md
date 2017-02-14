@@ -23,5 +23,8 @@ Configuration
 
 
 API
+---
 - [api2symfony](https://github.com/creads/api2symfony)
 - [api2symfony-bundle](https://github.com/creads/api2symfony-bundle)
+- [Hateoas](https://github.com/willdurand/Hateoas)
+- [Integration of the Hateoas library into Symfony2](https://github.com/willdurand/BazingaHateoasBundle)
