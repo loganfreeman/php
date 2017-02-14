@@ -19,3 +19,4 @@ Configuration
 ---
 - [fluent-symfony](https://github.com/mnapoli/fluent-symfony)
 - [How to Load Service Configuration inside a Bundle](http://symfony.com/doc/current/bundles/extension.html)
+- [How to Create Friendly Configuration for a Bundle](http://symfony.com/doc/current/bundles/configuration.html)
