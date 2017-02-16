@@ -1,3 +1,4 @@
 - [intl](http://php.net/manual/en/book.intl.php)
 - [Install PHP INTL on Mac using HomeBrew](https://daveismyname.blog/blog/install-php-intl-on-mac-using-homebrew)
 - [Zend OPcache](https://getgrav.org/blog/macos-sierra-apache-mysql-vhost-apc)
+- [xdebug](https://xdebug.org/docs/install)
