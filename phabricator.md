@@ -1,4 +1,5 @@
 - [installation_guide](https://secure.phabricator.com/book/phabricator/article/installation_guide/)
+- [Creating a Configuration File](https://secure.phabricator.com/book/phabricator/article/advanced_configuration/)
 
 vhost
 ```
