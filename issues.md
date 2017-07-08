@@ -1,1 +1,0 @@
-- [PHP code is not being executed, instead code shows on the page](http://stackoverflow.com/questions/5121495/php-code-is-not-being-executed-instead-code-shows-on-the-page)
