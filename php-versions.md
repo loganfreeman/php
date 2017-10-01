@@ -24,3 +24,11 @@ $ sudo update-alternatives --set php /usr/bin/php7.1
 $ sudo update-alternatives --set phar /usr/bin/phar7.1
 $ sudo update-alternatives --set phar.phar /usr/bin/phar.phar7.1
 ```
+
+Install extensions
+---
+```
+sudo add-apt-repository ppa:ondrej/php
+sudo apt-get update
+sudo apt-get install php7.0-gd
+```
