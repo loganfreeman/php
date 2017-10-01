@@ -30,5 +30,6 @@ Install extensions
 ```
 sudo add-apt-repository ppa:ondrej/php
 sudo apt-get update
-sudo apt-get install php7.0-gd
+sudo apt-get install php7.1-gd
+sudo apt-get install php7.1-mbstring
 ```
