@@ -1,3 +1,17 @@
+apr issue
+---
+```
+$ brew link apr-util --force
+$ brew link apr --force
+$ which apu-1-config
+/usr/local/bin/apu-1-config
+$ which apr-1-config
+/usr/local/bin/apr-1-config
+$ sudo mkdir -p /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.12.xctoolchain/usr/local/bin/ 
+$ sudo ln -s /usr/local/bin/apu-1-config /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.12.xctoolchain/usr/local/bin/
+$ sudo ln -s /usr/local/bin/apr-1-config /Applications/Xcode.app/Contents/Developer/Toolchains/OSX10.12.xctoolchain/usr/local/bin/
+```
+
 route not found
 ---
 This looks like you have to enable .htaccess by adding this to your vhost:
