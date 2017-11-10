@@ -1,0 +1,2 @@
+- [Packaging Your Apps with Phar](https://www.sitepoint.com/packaging-your-apps-with-phar/)
+- [Simple phar creation for any project managed via composer](https://github.com/clue/phar-composer)
